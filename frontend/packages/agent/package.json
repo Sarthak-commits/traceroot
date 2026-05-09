@@ -23,7 +23,7 @@
     "@mariozechner/pi-agent-core": "0.57.1",
     "@mariozechner/pi-ai": "0.57.1",
     "@traceroot/core": "workspace:*",
-    "hono": "^4.12.14"
+    "hono": "^4.12.18"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
